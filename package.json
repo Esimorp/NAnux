@@ -1,0 +1,12 @@
+{
+  "name": "NAnux",
+  "version": "0.0.1",
+  "dependencies": {
+    "minio": "^6.0.0",
+    "koa": "^2.5.1"
+  },
+  "devDependencies": {
+    "describe": "^1.2.0",
+    "mocha": "^5.2.0"
+  }
+}
